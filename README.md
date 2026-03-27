@@ -1,4 +1,4 @@
-# Cybersecurity Threat Detection using Machine Learning
+# Threat Detection using Machine Learning
 
 ## Overview
 This project explores how machine learning can be used to identify suspicious behavior in web traffic data. Instead of relying on manual monitoring, the system is designed to automatically detect anomalies and highlight potential threats.
