@@ -124,5 +124,5 @@ OR
 
 ## Author
 Ashita Gupta  
-B.Tech in Computer Science with Specialization in Cyber Security
+B.Tech in Computer Science with Specialization in Cyber Security at
 Indian Institute of Information Technology Kottayam
